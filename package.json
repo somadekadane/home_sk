@@ -1,0 +1,22 @@
+{
+  "name": "home_sk",
+  "version": "1.0.0",
+  "description": "Mini editor de código",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somadekadane/home_sk.git"
+  },
+  "author": "eder silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/somadekadane/home_sk/issues"
+  },
+  "homepage": "https://github.com/somadekadane/home_sk#readme",
+  "devDependencies": {
+    "electron": "^34.2.0"
+  }
+}
